@@ -3,7 +3,10 @@ This is a snake game that plays itself. It is basically like giving a snake a br
 
 ## Video Demo
 
-![Demo](https://youtu.be/xrvRclfe2B8)
+<a href="https://youtu.be/xrvRclfe2B8" target="_blank">
+  <img src="https://youtu.be/xrvRclfe2B8" alt="Watch the video" width="600" height="auto" />
+</a>
+
 
 ## How to train
 
